@@ -37,18 +37,6 @@ I find that computer science enables me to be the artist I never could. What I c
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-464-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 233 Contributions in the Year 2022
- > 
-> 📦 224.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -61,12 +49,8 @@ HTML                     2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/lul-g/lul-g/main/charts/bar_graph.png) 
-
-
- Last Updated on 24/10/2022 06:12:42 UTC
+ Last Updated on 24/10/2022 06:13:30 UTC
 <!--END_SECTION:waka-->
 
 <p align='center'>
