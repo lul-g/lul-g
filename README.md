@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://twitter.com/lulseged_admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lulseged_admasu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lulseged-admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lulseged-admasu" height="30" width="40" /></a>
-  <a href="https://lulseged-admasu.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lulseged-admasu" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Technology Stack:</h3>
