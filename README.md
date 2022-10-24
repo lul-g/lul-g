@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=lul-g&color=red)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
 ----------------------------------
 
@@ -19,4 +20,3 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=lul-g&color=red)
