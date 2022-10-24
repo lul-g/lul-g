@@ -39,6 +39,12 @@ I find that computer science enables me to be the artist I never could. What I c
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-590-blue)
+
+
+ Last Updated on 24/10/2022 19:06:09 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
