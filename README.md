@@ -33,6 +33,40 @@ I find that computer science enables me to be the artist I never could. What I c
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-464-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 233 Contributions in the Year 2022
+ > 
+> 📦 224.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ███████████░░░░░░░░░░░░░░   45.45% 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lul-g/lul-g/main/charts/bar_graph.png) 
+
+
+ Last Updated on 24/10/2022 06:08:10 UTC
 <!--END_SECTION:waka-->
 
 <p align='center'>
