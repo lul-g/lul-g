@@ -36,7 +36,7 @@ I find that computer science enables me to be the artist I never could. What I c
 <!--END_SECTION:waka-->
 
 <p align="center">	<!-- (optional) center align -->
-    <img src="/download.svg" width="XXXpx">
+    <img src="/downloadDark.svg" width="XXXpx">
 </p>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lul-g&theme=react-dark&hide_border=true&area=true)
