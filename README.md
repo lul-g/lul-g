@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, I'm Lulseged Admasu.</h1>
 <h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:. I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills:monocle_face:.</h3>
 
-<p align="left"> <a href="https://twitter.com/lulseged_admasu" target="blank"><img src="https://img.shields.io/twitter/follow/lulseged_admasu?logo=twitter&style=for-the-badge" alt="lulseged_admasu" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lulseged_admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lulseged_admasu" height="30" width="40" /></a>
