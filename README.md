@@ -31,16 +31,15 @@ I find that computer science enables me to be the artist I never could. What I c
 <a href="https://linkedin.com/in/lulseged-admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lulseged-admasu" height="30" width="40" /></a>
 <br><br><br><br>
 </p>
-
-<h1 align='center'>STATS</h1>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <h1 align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="90" height="90" />Project Highlights</h1>
 <h3 align='center'><a href='https://sgetrade.netlify.app/'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="55" height="55" />SGEtrade Website</a></h3>
 <p align="center">
     <img src="/downloadDark.svg" width="XXXpx">
 </p>
+<h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align='center'>
     
@@ -66,4 +65,4 @@ I find that computer science enables me to be the artist I never could. What I c
 </div>
 
 
-<p align='center'> Find animated emojis for github markdown at https://animated-fluent-emoji.vercel.app/#people</p>
+<h4 align='center'> Find animated emojis for github markdown 👉 https://animated-fluent-emoji.vercel.app/#people</h4>
