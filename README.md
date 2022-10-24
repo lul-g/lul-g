@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lulseged Admasu</h1>
 <h3 align="center">A passionate computer science student at NKU.</h3>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/lul-g/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <a href="https://twitter.com/lulseged_admasu" target="blank"><img src="https://img.shields.io/twitter/follow/lulseged_admasu?logo=twitter&style=for-the-badge" alt="lulseged_admasu" /></a> </p>
 
