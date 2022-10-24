@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lulseged Admasu</h1>
-<h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:. I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills🤓.</h3>
+<h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:. I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills:monocle_face:.</h3>
 
 <p align="left"> <a href="https://twitter.com/lulseged_admasu" target="blank"><img src="https://img.shields.io/twitter/follow/lulseged_admasu?logo=twitter&style=for-the-badge" alt="lulseged_admasu" /></a> </p>
 
