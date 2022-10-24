@@ -31,7 +31,7 @@ I find that computer science enables me to be the artist I never could. What I c
 <a href="https://linkedin.com/in/lulseged-admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lulseged-admasu" height="30" width="40" /></a>
 <br><br><br><br>
 </p>
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
 
