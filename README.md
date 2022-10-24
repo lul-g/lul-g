@@ -40,10 +40,8 @@ I find that computer science enables me to be the artist I never could. What I c
   
 </p>
 
-<p align='right'>
-  
+<p align='right'> 
 [![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
-
 </p>
 
 <p align='center'>
