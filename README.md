@@ -32,15 +32,21 @@ I find that computer science enables me to be the artist I never could. What I c
 <br><br><br><br>
 </p>
 
+<h1 align='center'>STATS</h1>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align="center">	<!-- (optional) center align -->
+<h1 align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="90" height="90" />Project Highlights</h1>
+<h3 align='center'><a href='https://sgetrade.netlify.app/'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="55" height="55" />SGEtrade Website</a></h3>
+<p align="center">
     <img src="/downloadDark.svg" width="XXXpx">
 </p>
 
+<div align='center'>
+    
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lul-g&theme=react-dark&hide_border=true&area=true)
-
+    
+</div>
 
 
 <div align='center'>
@@ -60,4 +66,4 @@ I find that computer science enables me to be the artist I never could. What I c
 </div>
 
 
-
+<p align='center'> Find animated emojis for github markdown at https://animated-fluent-emoji.vercel.app/#people</p>
