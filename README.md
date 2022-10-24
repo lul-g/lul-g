@@ -29,8 +29,8 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
-
 [![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
+
 
