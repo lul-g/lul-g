@@ -33,6 +33,7 @@ I find that computer science enables me to be the artist I never could. What I c
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lul-g&theme=react-dark&hide_border=true&area=true)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
