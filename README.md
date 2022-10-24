@@ -11,6 +11,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 
 <h1 align="center">Technology Stack:</h1>
 <p align="center"> 
+<br><br><br>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="100" height="40"/></a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="40"/> </a> 
