@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, I'm Lulseged Admasu.</h1>
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Lulseged+Admasu.)](https://git.io/typing-svg).
+  
+</h1>
 <h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:. I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills:monocle_face:.</h3>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="45" height="45" /> Connect with me:</h1>
