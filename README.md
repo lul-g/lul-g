@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g)](https://github.com/lul-g/github-readme-stats)
- <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+ <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
+ 
+ <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
