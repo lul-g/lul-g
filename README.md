@@ -25,12 +25,12 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 <a href="https://twitter.com/lulseged_admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lulseged_admasu" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://linkedin.com/in/lulseged-admasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lulseged-admasu" height="30" width="40" /></a>
-<br><br><br><br>
+<br><br>
 </p>
 
 
 
-[![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
+[![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Quotes align='center'](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
