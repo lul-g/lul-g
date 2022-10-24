@@ -2,7 +2,7 @@
 Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, I am Lulseged Admasu.  
 </h1>
 <h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:.I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills:monocle_face:.</h3>
-<h1 align="center"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="65" height="65" /> How I see CS</h1>
+<h1 align="center"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="65" height="65" /> What CS means to me</h1>
 <p  align="center">
 I find that computer science enables me to be the artist I never could. What I can't draw, I can code; what I envision, I can put to words; what I see in my mind, I can share. Computer science is more than a subject to me, it is <b>the only</b> gateway to showcase my imagenation.
 </p>
@@ -32,22 +32,6 @@ I find that computer science enables me to be the artist I never could. What I c
 <br><br><br><br>
 </p>
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
 
 <p align='center'>
