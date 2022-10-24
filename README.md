@@ -37,20 +37,8 @@ I find that computer science enables me to be the artist I never could. What I c
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-464-blue)
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               10 repos            ███████████░░░░░░░░░░░░░░   45.45% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-
- Last Updated on 24/10/2022 06:13:30 UTC
+ Last Updated on 24/10/2022 06:15:49 UTC
 <!--END_SECTION:waka-->
 
 <p align='center'>
