@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lulseged Admasu.</h1>
 <h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:. I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills:monocle_face:.</h3>
-![giphy-alien](https://user-images.githubusercontent.com/60490827/197441672-6ed1062e-0577-487f-a32d-826af8ee2ea6.gif)
 
 <p align="left"> <a href="https://twitter.com/lulseged_admasu" target="blank"><img src="https://img.shields.io/twitter/follow/lulseged_admasu?logo=twitter&style=for-the-badge" alt="lulseged_admasu" /></a> </p>
 
@@ -19,3 +18,5 @@
 [![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lul-g&" alt="lul-g" /></p>
+![giphy-alien](https://user-images.githubusercontent.com/60490827/197441709-77e7690b-ed5e-4369-98de-08a51e18323e.gif)
+
