@@ -3,7 +3,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 </h1>
 <h3 align="center">I am a 3rd year computer science student at NKU. I am a passionate learner who's willing to learn and work over a multitude of technologies:bulb:. I love to explore new technologies and leverage them to bring my ideas to life:rocket:. I am currently into Web Dev:snowflake: and working on my Data Structures and Algorithm skills:monocle_face:.</h3>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="55" height="55" /> Technology Stack</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="55" height="55" /> <h1 align="center">Technology Stack</h1>
 <p align="center"> 
 <br><br><br>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="100" height="40"/></a> 
