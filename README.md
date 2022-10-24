@@ -35,27 +35,26 @@ I find that computer science enables me to be the artist I never could. What I c
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align='center'>
-  
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lul-g&theme=react-dark&hide_border=true&area=true)
+
+
+
+<div align='center'>
   
-</p>
+[![Lul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color='#FF9178')](https://github.com/lul-g/github-readme-stats)
 
-
-<a align='center' href='(https://github.com/lul-g/github-readme-stats)'> 
-<img src='https://github-readme-stats.vercel.app/api?username=lul-g&show_icons=true&theme=radical&count_private=true&show_owner=true&icon_color=#FF9178'>
-</a>
-
-
-<p align='center'>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
-
-</p>
-<p align='center'>
+</div>
+<div align='center'>
   
 [![Readme Quotes align='center'](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
   
-</p>
+</div>
+<div align='center'>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
 
 
