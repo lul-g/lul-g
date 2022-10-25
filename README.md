@@ -41,10 +41,50 @@ I find that computer science enables me to be the artist I never could. What I c
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-590-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-592-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
+🌆 Daytime    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+🌃 Evening    54 commits     ████████░░░░░░░░░░░░░░░░░   33.96% 
+🌙 Night      81 commits     ████████████░░░░░░░░░░░░░   50.94%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       92 commits     ██████████████░░░░░░░░░░░   57.86% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
+Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
+Sunday       27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98%
+
+```
 
 
- Last Updated on 24/10/2022 19:06:09 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 25/10/2022 19:24:24 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
