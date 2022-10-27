@@ -39,7 +39,7 @@ I find that computer science enables me to be the artist I never could. What I c
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-592-blue)
 
@@ -70,24 +70,25 @@ Sunday       27 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     29 mins             █████████████████░░░░░░░░   69.74% 
-XML                      11 mins             ███████░░░░░░░░░░░░░░░░░░   27.83% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+CSS                      1 hr 33 mins        ████████████░░░░░░░░░░░░░   48.2% 
+JavaScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59% 
+HTML                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06% 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+VS Code                  3 hrs 14 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-React_Journey            42 mins             █████████████████████████   100.0%
+WEB                      2 hrs 30 mins       ███████████████████░░░░░░   77.71% 
+React_Journey            43 mins             █████░░░░░░░░░░░░░░░░░░░░   22.29%
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.0%
+Windows                  3 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/10/2022 18:51:24 UTC
+ Last Updated on 27/10/2022 18:55:04 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
