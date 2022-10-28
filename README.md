@@ -39,9 +39,9 @@ I find that computer science enables me to be the artist I never could. What I c
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-592-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-602-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,25 +70,25 @@ Sunday       27 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      1 hr 33 mins        ████████████░░░░░░░░░░░░░   48.2% 
-JavaScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59% 
-HTML                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06% 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
+CSS                      3 hrs 59 mins       ██████████████░░░░░░░░░░░   58.0% 
+JavaScript               1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.27% 
+HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 53 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-WEB                      2 hrs 30 mins       ███████████████████░░░░░░   77.71% 
-React_Journey            43 mins             █████░░░░░░░░░░░░░░░░░░░░   22.29%
+WEB                      5 hrs 17 mins       ███████████████████░░░░░░   76.66% 
+React_Journey            1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   23.34%
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.0%
+Windows                  6 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/10/2022 18:55:04 UTC
+ Last Updated on 28/10/2022 18:50:00 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
