@@ -6,7 +6,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 <h3 align="center">
 I find that computer science enables me to be the artist I never could. What I can't draw, I can code; what I envision, I can put to words; what I see in my mind, I can share. Computer science is more than a subject to me, it is <b>the only</b> gateway to showcase my imagenation.
 </h3>
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" align="center" width="45" height="45" /> Technology Stack</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" align="center" width="45" height="45" /> Tech Stack</h1>
 <p align="center"> 
 <br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="40"/> </a> 
