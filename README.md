@@ -39,9 +39,9 @@ I find that computer science enables me to be the artist I never could. What I c
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,26 +70,26 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      9 hrs 28 mins       ███████████████░░░░░░░░░░   60.3% 
-HTML                     3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   23.29% 
-JavaScript               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
+CSS                      9 hrs 36 mins       ███████████████░░░░░░░░░░   60.6% 
+HTML                     3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   23.12% 
+JavaScript               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  15 hrs 43 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 50 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LoadSecure-main          14 hrs 31 mins      ███████████████████████░░   92.39% 
-space                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Desktop                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
+LoadSecure-main          14 hrs 38 mins      ███████████████████████░░   92.45% 
+space                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.05% 
+Desktop                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
 
 💻 Operating System: 
-Windows                  15 hrs 43 mins      █████████████████████████   100.0%
+Windows                  15 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/11/2022 18:42:03 UTC
+ Last Updated on 27/11/2022 18:42:05 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
