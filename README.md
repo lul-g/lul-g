@@ -39,7 +39,7 @@ I find that computer science enables me to be the artist I never could. What I c
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -70,25 +70,24 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 26 mins       ██████████████████████░░░   91.39% 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+JavaScript               2 hrs 7 mins        ███████████████████████░░   92.93% 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 17 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-JS-first                 2 hrs 16 mins       █████████████████████░░░░   84.67% 
-New folder               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-LoadSecure-main          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+JS-first                 2 hrs 16 mins       ████████████████████████░   98.99% 
+New folder               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.0%
+Windows                  2 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/12/2022 18:40:18 UTC
+ Last Updated on 23/12/2022 18:40:18 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
