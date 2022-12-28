@@ -41,7 +41,7 @@ I find that computer science enables me to be the artist I never could. What I c
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
 
@@ -85,7 +85,7 @@ Windows                  2 hrs 16 mins       ███████████�
 ```
 
 
- Last Updated on 27/12/2022 18:39:46 UTC
+ Last Updated on 28/12/2022 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
