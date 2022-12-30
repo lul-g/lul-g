@@ -39,9 +39,9 @@ I find that computer science enables me to be the artist I never could. What I c
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
 
@@ -88,7 +88,7 @@ Windows                  1 hr 9 mins         ███████████�
 ```
 
 
- Last Updated on 29/12/2022 18:39:52 UTC
+ Last Updated on 30/12/2022 18:39:31 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
