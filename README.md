@@ -70,22 +70,21 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               23 mins             ████████████████░░░░░░░░░   64.87% 
-CSS                      12 mins             ████████░░░░░░░░░░░░░░░░░   35.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react-portfolio-final    36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 19/01/2023 18:41:58 UTC
+ Last Updated on 20/01/2023 18:41:26 UTC
 <!--END_SECTION:waka-->
 
 <div align='center'>
