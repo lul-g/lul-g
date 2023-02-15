@@ -86,12 +86,12 @@ No Activity Tracked This Week
 
  Last Updated on 21/01/2023 18:39:02 UTC
 <!--END_SECTION:waka-->
-
+<!-- 
 <div align='center'>
     
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lul-g&theme=react-dark&hide_border=true&area=true)
     
-</div>
+</div> -->
 
 
 <div align='center'>
