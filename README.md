@@ -33,10 +33,23 @@ I find that computer science enables me to be the artist I never could. What I c
 </p>
 <h1 align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="90" height="90" />Project Highlights</h1>
 
+<table align="center">
+<tr>
+<td>
 <h3 align='center'><a href='http://loadsecuresystems.com/' target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="55" height="55" />LoadSecure Website</a></h3>
-<h3 align='center'><a href='https://sgetrade.netlify.app/' target="_blank"><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="55" height="55" />SGEtrade Website</a></h3>
+</td>
+<td><h3 align='center'><a href='https://sgetrade.netlify.app/' target="_blank"><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="55" height="55" />SGEtrade Website</a></h3>
+</td>
+</tr>
+<tr>
+<td>
 <h3 align='center'><a href='https://lul-g.netlify.app/' target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="55" height="55" />Portfolio Website</a></h3>
+</td>
+<td>
 <h3 align='center'><a href='https://resume-lul.netlify.app/' target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="55" height="55" />Resume</a></h3>
+</td>
+</tr>
+</table>
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
 <!--START_SECTION:waka-->
