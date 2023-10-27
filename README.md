@@ -49,6 +49,11 @@ I find that computer science enables me to be the artist I never could. What I c
 <h3 align='center'><a href='https://resume-lul.netlify.app/' target="_blank"><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="55" height="55" />Resume</a></h3>
 </td>
 </tr>
+<tr>
+<td>
+<h3 align='center'><a href='https://postt-itt.vercel.app/' target="_blank"><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Factory%20Worker.png" alt="Factory Worker" width="55" height="55" />Post-it chat app</a></h3>
+</td>
+ </tr>
 </table>
 <h1 align='center'><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="75" height="75" /> STATS and more...</h1>
 
