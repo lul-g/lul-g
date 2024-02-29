@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, I am Lulseged Admasu.  
 </h1>
-<h3 align="center">I am a recent graduate at NKU. I graduated with a computer science degree and I am currently working for the university. I am a passionate learner who's willing to learn and work over a multitude of technologies💡. I love to explore new technologies and leverage them to bring my ideas to life🚀. I am currently into Web Dev🤟 and working on my Data Structures and Algorithm skills😉.</h3>
+<h3 align="center">I'm thrilled to introduce myself as a recent graduate of NKU, where I earned my degree in Computer Science. Now, I'm honored to be a part of the dynamic team at my alma mater, channeling my passion for innovation into my work here. I am a passionate learner who's willing to learn and work over a multitude of technologies💡. I love to explore new technologies and leverage them to bring my ideas to life🚀. I am currently into Web Dev🤟 and working on my Data Structures and Algorithm skills😉.</h3>
 <h1 align="center"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="65" height="65" /> What CS means to me</h1>
 <h3 align="center">
 I find that computer science enables me to be the artist I never could. What I can't draw, I can code; what I envision, I can put to program; what I see in my mind, I can share. Computer science is more than a subject to me, it is <b>the only</b> gateway to showcase my imagenation.
