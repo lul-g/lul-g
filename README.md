@@ -39,7 +39,7 @@ I find that computer science enables me to be the artist I never could. What I c
 <h3 align='center'><a href='https://postt-itt.vercel.app/' target="_blank"><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Elf%20Light%20Skin%20Tone.png" alt="Man Elf Light Skin Tone" width="55" height="55" />Post-it chat app</a></h3>
 </td>
 <td>
-<h3 align='center'><a href='https://airbnb-lul.vercel.app/' target="_blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Firefighter%20Medium-Light%20Skin%20Tone.png" alt="Firefighter Medium-Light Skin Tone" width="25" height="25" />Airbnb Clone</a></h3>
+<h3 align='center'><a href='https://airbnb-lul.vercel.app/' target="_blank"><img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Firefighter%20Medium-Light%20Skin%20Tone.png" alt="Firefighter Medium-Light Skin Tone" width="55" height="55" />Airbnb Clone</a></h3>
 </td>
  </tr>
 <tr>
